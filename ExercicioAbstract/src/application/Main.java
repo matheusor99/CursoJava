@@ -46,5 +46,4 @@ public class Main {
 		}
 		System.out.print("total de Impostos = "+ totalImpostos);
 	}
-
 }
